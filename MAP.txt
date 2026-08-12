@@ -1,0 +1,15 @@
+ads@2x.png -> ads-2x.png
+arrk-logo@2x.png -> arrk-logo-2x.png
+cyber-essentials-plus@2x.png -> cyber-essentials-plus-2x.png
+globe@4x.png -> globe-4x.png
+iso-14001@2x.png -> iso-14001-2x.png
+iso-9001@2x.png -> iso-9001-2x.png
+joscar@2x.png -> joscar-2x.png
+linkedin@4x.png -> linkedin-4x.png
+maa@2x.png -> maa-2x.png
+mail@4x.png -> mail-4x.png
+make-uk-defence@2x.png -> make-uk-defence-2x.png
+ncc@2x.png -> ncc-2x.png
+nwaa@2x.png -> nwaa-2x.png
+phone@4x.png -> phone-4x.png
+smartphone@4x.png -> smartphone-4x.png
